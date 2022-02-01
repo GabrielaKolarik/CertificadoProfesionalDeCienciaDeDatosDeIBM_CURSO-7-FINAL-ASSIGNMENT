@@ -1,5 +1,5 @@
 # Certificado Profesional De Ciencia De Datos De IBM
-# CURSO 7
+# CURSO 7: Análisis de Datos con Python
 # FINAL-ASSIGNMENT
 
 _Escenario de caso de proyecto_
